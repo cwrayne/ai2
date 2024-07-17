@@ -1,0 +1,1 @@
+window.location.href = "http://ai2offline.share.zrok.io/_ah/login?continue=http%3A%2F%2Fai2offline.share.zrok.io%2Flogin%2Fgoogle%3Flocale%3Den"

@@ -1,0 +1,18 @@
+{
+  "name": "ai2offline",
+  "version": "1.0.0",
+  "description": "AI2Offline's Electron app; Emulator and USB don't work",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Dashiell Benton",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^31.2.1",
+    "electron-prebuilt-compile": "1.7.9"
+  },
+  "dependencies": {
+    "punycode": "^2.3.1"
+  }
+}
