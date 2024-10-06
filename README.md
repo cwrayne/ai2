@@ -1,5 +1,7 @@
 # ai2
 App Inventor 2 using AI2Offline to make a server use just email, no password
+# Disclaimer
+the server might not be on, in fact it isnt
 ## Troubleshooting
 ### Windows
 Sometimes the setup.exe file is a "threat" according to Windows Defender, so if you click on the notification, click "Protection history", "Threat blocked", "Actions" and then "Allow on device" you can download it again and it will work. Alternatively, you can temporarily disable Windows Defender while downloading.
